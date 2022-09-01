@@ -4,7 +4,7 @@ type: essay
 title: "Introduction"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
-published: false
+published: true
 labels:
   - MIS
 ---
