@@ -16,4 +16,4 @@ However the pandemic happened. From face to face class, we all went to online cl
 
 It was also during the pandemic when I graduated from community college. At the same time I started to loosing my interest in my major. I told my mom about it and she was not happy. She asked me what I wanted and I answered her with I don't know.  
 
-Then, I remember I have cousins who are computer science major. I asked them what they do, if it's an okay major, and the difference between an IT and a computer science. I thought of going in to tech since I see that I'm interested and what people do and it seems like a fun thing to do. At the end, I deciced to major in Management Information System. 
+Then, I remember I have cousins who are computer science major. I asked them what they do, if it's an okay major, and the difference between an IT and a computer science. I thought of going in to tech since I see that I'm interested on what people do and it seems like its fun. That's why at the end, I deciced to major in Management Information System. 
