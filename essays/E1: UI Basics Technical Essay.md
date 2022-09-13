@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E1: UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-31
+date: 2022-09-12
 published: true
 labels:
   - MIS
