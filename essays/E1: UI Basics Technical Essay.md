@@ -1,0 +1,20 @@
+---
+layout: essay
+type: essay
+title: "E1: UI Basics Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2022-08-31
+published: true
+labels:
+  - MIS
+  - WODs
+---
+My first attempt at making the BrowserHistory1, it was doing pretty okay at first because I knew what to do on the first two tasks. But I got stuck when I had to do the hyperlink. I had no idea what to do. I tried putting every code that I know but it’s just not working at all. So, instead of staring at the computer I stopped and watched the screen cast. Through the video I finally figured it out. I restarted everything to see if I would remember everything I learned from the tutorial. I was doing fine however, I had a few problems so I have to resolve and redo it again. On my last try, I tried making it to Rx time but I just couldn't get it. It’s always on the Av time. I think it’s because I’m a slow typer. 
+
+The BrowserHistory2 is pretty easy. It took me three attempts to get into the Av time. Again, I had some problems with linking both files again because I don’t know what to do. I thought it’s the same as the one from BrowserHistory1 but it wasn’t. After my first try, I watched the whole screen cast video to see the part where I got stuck. Then after, I went again to do it but I completed it on Av time. So, I did it again one and I completed it on Rx time. 
+
+BrowserHistory3 is the part I had a hard time with. The part that I got stuck on is making the  three sections appear side by side. On my first attempt, nothing happened, it stayed where it was. What I did was I stopped and watched the screencast. I watched carefully on what to do. I compared the video and the code that I did to see which part I made a mistake. My second and third attempt, I was on the part where I had to align the three browsers to make sure it. I did the usual, I stopped and watched the video again. My second to the last attempt I did the whole thing correctly but I completed it within the Av time so I have to redo to see if I can finish it within the Rx time.
+
+With my overall experience, I had fun doing it even though it was frustrating when I get stuck on one task and try my best to solve the problem but nothing is happening. Personally, I like it when there is a provided video when doing a task because I’m a visual learner. I learned new things doing these WODs. 
+
+For the future students of ITM352, it’s better if you take notes so that when you do these WODs when you are stuck on something, you can just refer to your notes. But if you are a visual learner like me then screencast videos helped a lot. But don’t watch the video first before doing the work because I feel like there is no challenge at all. Try it first to see where you’ll get stuck, watch the video, then redo everything. 
